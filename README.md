@@ -39,3 +39,23 @@ python tsne_analysis.py 1000 2 /path/to/your/images 30
 
 ### Example 2 - 3D
 ![tsne_P5_3D](https://github.com/user-attachments/assets/8c7b396f-df87-4d80-8609-60726ab829f6)
+
+## Extra - added UMAP Support
+
+### Use
+
+```bash
+Usage: python3 umap_analysis.py <n_components> <image_dir> <n_neighbors>
+```
+
+## Figures UMAP
+
+### Example 1 UMAP - 2D
+![umap_15_2D](https://github.com/user-attachments/assets/1ac162f0-89cc-4d97-be28-3accb1a982a3)
+
+### Example 2 UMAP - 3D
+![umap_15_3D](https://github.com/user-attachments/assets/08e86f5e-1aff-4783-be3b-91aeeb9f4f4f)
+
+
+
+
